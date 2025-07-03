@@ -1,0 +1,9 @@
+{
+  "name": "Cyber Cat #0021",
+  "description": "A unique cat NFT from the Cyber Cats collection.",
+  "image": "ipfs://Qm.../0021.png",
+  "attributes": [
+    { "trait_type": "Fur", "value": "Purple" },
+    { "trait_type": "Eyes", "value": "Laser Red" }
+  ]
+}
